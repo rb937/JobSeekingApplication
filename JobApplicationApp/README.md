@@ -1,7 +1,3 @@
-Absolutely! Here’s a **professional and detailed README.md** for your **Job Portal Management System** project — ideal for GitHub or project submission.
-
----
-
 # 🧩 Job Portal Management System
 
 ## 📘 Overview
@@ -130,5 +126,6 @@ JobApplicationApp/
 
 * **Language:** Java
 * **Data Storage:** `.dat` files for storage
+
 
 
