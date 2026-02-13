@@ -1,10 +1,10 @@
-# 🧩 Job Portal Management System
+# 🧩 Job Seeking Application
 
 ## 📘 Overview
 
-The **Job Portal Management System** is a simple yet efficient console-based application developed in **Python**. It simulates the core functionalities of a real-world job portal — allowing **users** to register and apply for jobs, and **admins** to post and manage job listings.
+The **Job Seeking Application** is a simple yet efficient GUI application developed in **Java**. It simulates the core functionalities of a real-world job portal — allowing **users** to register and apply for jobs, and **admins** to post and manage job listings.
 
-It uses `.dat` files for data persistence, maintaining information on users, jobs, and applications in a lightweight and easily manageable format.
+It uses `.dat` files for data persistence, maintaining information on users, jobs, and applications in a light-weight and easily manageable format.
 
 ---
 
@@ -63,6 +63,7 @@ JobApplicationApp/
 
    * User can register or log in.
    * Admin logs in with predefined credentials.
+   * Upload resume.
 
 2. **Job Management**
 
@@ -116,9 +117,8 @@ JobApplicationApp/
 
 ## 🔮 Future Scope
 
-* GUI using **Java Swing** or **Java AWT**
+* More smooth and fresh looking GUI using **Java Swing** or **Java AWT**
 * Job **search & filter** functionality
-* **Multi-format resume parsing** (PDF, DOCX, TXT)
 
 ---
 
